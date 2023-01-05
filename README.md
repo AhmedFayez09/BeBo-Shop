@@ -6,19 +6,16 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
+This project is Ecommerce app  i make to sale closes and it have a favorite screen , cart Screen , localization , themeing and more .
+i recommend to see project in github link 
+
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
 
 
 # ScreenShopt
-
-
-
 
 ![IMG-20221111-WA0000](https://user-images.githubusercontent.com/106115385/201360608-af70af32-f927-47d7-b87f-d4823cd9bfde.jpg)
