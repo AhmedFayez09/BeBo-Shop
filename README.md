@@ -19,3 +19,4 @@ A few resources to get you started if this is your first Flutter project:
 # ScreenShopt
 
 ![IMG-20221111-WA0000](https://user-images.githubusercontent.com/106115385/201360608-af70af32-f927-47d7-b87f-d4823cd9bfde.jpg)
+[Ahmed Fayez_ Flutter Developer _ CV.pdf](https://github.com/user-attachments/files/21613142/Ahmed.Fayez_.Flutter.Developer._.CV.pdf)
